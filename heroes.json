@@ -1,0 +1,49 @@
+{
+  "heroes": [
+    {
+      "id": "e4580135-91e1-45cf-a9cf-87aa79eb3190",
+      "name": "AXE",
+      "description": "бить и крушить",
+      "element": "earth"
+    },
+    {
+      "id": "783e6e65-c5e6-456a-8b97-df4d6786af46",
+      "name": "dio",
+      "description": "летать и стрелять огнем",
+      "element": "fire"
+    },
+    {
+      "id": "817638ca-27c5-4691-a0b5-daa04e2117b8",
+      "name": "voker",
+      "description": "я умею летать и управлять ветром",
+      "element": "wind"
+    }
+  ],
+  "filters": [
+    {
+      "name": "all",
+      "label": "Все",
+      "className": "btn-outline-dark"
+    },
+    {
+      "name": "fire",
+      "label": "Огонь",
+      "className": "btn-danger"
+    },
+    {
+      "name": "water",
+      "label": "Вода",
+      "className": "btn-primary"
+    },
+    {
+      "name": "wind",
+      "label": "Ветер",
+      "className": "btn-success"
+    },
+    {
+      "name": "earth",
+      "label": "Земля",
+      "className": "btn-secondary"
+    }
+  ]
+}
